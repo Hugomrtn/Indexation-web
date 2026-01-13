@@ -16,12 +16,6 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
-def parse_json(json_file):
-    for row in json_file:
-        current = urlparse(row["url"])
-    # à finir
-
-
 def download_token():
     nltk.download('stopwords')
     nltk.download('punkt')
@@ -57,11 +51,11 @@ def create_reverse_index_title_or_description(json_file, type, filename):
     save_to_json(index, filename)
 
 
-def create_index_reviews(json_file, type, filename):
+def create_index_reviews(json_file, filename):
     index = {}
 
     for row in json_file:
-        current_reviews = row[type]
+        current_reviews = row["product_reviews"]
         current_url = row["url"]
         ratings = [review["rating"] for review in current_reviews]
         number_of_ratings = len(ratings)
@@ -107,8 +101,36 @@ def create_index_features(json_file, filename):
         save_to_json(index_feature, current_filename)
 
 
+def create_reverse_index_title_or_description_with_position(json_file, type,
+                                                            filename):
+    stop_words = set(stopwords.words('english'))
+    index = {}
+
+    for row in json_file:
+        current_text = row[type]
+        current_url = row["url"]
+
+        current_tokenized = tokenize(stop_words, current_text)
+
+        for i in range(len(current_tokenized)):
+            token = current_tokenized[i]
+            if token not in index:
+                index[token] = {}
+            if current_url not in index[token]:
+                index[token][current_url] = []
+            index[token][current_url].append(i)
+
+    save_to_json(index, filename)
+
+
+def create_all_indexes(json_file, path):
+    for name in ["title", "description"]:
+        filename = path+"index_"+name+".jsonl"
+        create_reverse_index_title_or_description_with_position(json_file,
+                                                                name, filename)
+    create_index_reviews(json_file, path+"index_reviews.jsonl")
+    create_index_features(json_file, path+"index_features_")
+
+
 json_file = read_json("TP2/products.jsonl")
-# create_reverse_index_title_or_description(json_file, "title", "TP2/index_title.jsonl")
-# create_reverse_index_title_or_description(json_file, "description", "TP2/index_description.jsonl")
-# create_index_reviews(json_file, "product_reviews", "TP2/index_reviews.jsonl")
-# create_index_features(json_file, "TP2/index_features_")
+create_all_indexes(json_file, "TP2/")
