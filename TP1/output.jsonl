@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products",
         "title": "web-scraping.dev product page 1",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -127,7 +127,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?page=5",
         "title": "web-scraping.dev product page 5",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -250,7 +250,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/25",
         "title": "web-scraping.dev product Box of Chocolate Candy",
         "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
         "links": [
@@ -327,857 +327,16 @@
                 "text": "cherry, large"
             },
             {
-                "href": "https://web-scraping.dev/product/11",
-                "text": "Classic Leather Sneakers79.99"
-            },
-            {
                 "href": "https://web-scraping.dev/product/3",
                 "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/23",
-                "text": "Classic Leather Sneakers79.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Red Energy Potion",
-        "first_paragraph": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8",
-                "text": "Women's High Heel Sandals59.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Dragon Energy Potion",
-        "first_paragraph": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/27",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/24",
-                "text": "Cat-Ear Beanie14.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/2",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12",
-                "text": "Cat-Ear Beanie14.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Cat-Ear Beanie",
-        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
-                "text": "pink, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-small",
-                "text": "pink, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
-                "text": "sand, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-small",
-                "text": "sand, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
-                "text": "grey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-small",
-                "text": "grey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
-                "text": "darkgrey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
-                "text": "darkgrey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/24",
-                "text": "Cat-Ear Beanie14.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/9",
-                "text": "Running Shoes for Men49.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/17",
-                "text": "Blue Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Cat-Ear Beanie",
-        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
-                "text": "pink, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-small",
-                "text": "pink, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
-                "text": "sand, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-small",
-                "text": "sand, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
-                "text": "grey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-small",
-                "text": "grey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
-                "text": "darkgrey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
-                "text": "darkgrey, small"
             },
             {
                 "href": "https://web-scraping.dev/product/20",
                 "text": "Women's High Heel Sandals59.99"
             },
             {
-                "href": "https://web-scraping.dev/product/6",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/9",
-                "text": "Running Shoes for Men49.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/2",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Cat-Ear Beanie",
-        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
-                "text": "pink, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-small",
-                "text": "pink, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
-                "text": "sand, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-small",
-                "text": "sand, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
-                "text": "grey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-small",
-                "text": "grey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
-                "text": "darkgrey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
-                "text": "darkgrey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/9",
-                "text": "Running Shoes for Men49.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/13",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8",
-                "text": "Women's High Heel Sandals59.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/17",
-                "text": "Blue Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Cat-Ear Beanie",
-        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
-                "text": "pink, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-small",
-                "text": "pink, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
-                "text": "sand, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-small",
-                "text": "sand, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
-                "text": "grey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-small",
-                "text": "grey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
-                "text": "darkgrey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
-                "text": "darkgrey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/17",
-                "text": "Blue Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/18",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8",
-                "text": "Women's High Heel Sandals59.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Cat-Ear Beanie",
-        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
-                "text": "pink, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-small",
-                "text": "pink, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
-                "text": "sand, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-small",
-                "text": "sand, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
-                "text": "grey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-small",
-                "text": "grey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
-                "text": "darkgrey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
-                "text": "darkgrey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8",
-                "text": "Women's High Heel Sandals59.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/28",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/17",
-                "text": "Blue Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/11",
+                "text": "Classic Leather Sneakers79.99"
             },
             {
                 "href": "https://web-scraping.dev/product/1",
@@ -1210,863 +369,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Cat-Ear Beanie",
-        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
-                "text": "pink, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=pink-small",
-                "text": "pink, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
-                "text": "sand, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=sand-small",
-                "text": "sand, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
-                "text": "grey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=grey-small",
-                "text": "grey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
-                "text": "darkgrey, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
-                "text": "darkgrey, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/7",
-                "text": "Hiking Boots for Outdoor Adventures89.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/17",
-                "text": "Blue Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/9",
-                "text": "Running Shoes for Men49.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Teal Energy Potion",
-        "first_paragraph": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/27?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/27?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/3",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/4",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12",
-                "text": "Cat-Ear Beanie14.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Dragon Energy Potion",
-        "first_paragraph": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/18",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/27",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Dragon Energy Potion",
-        "first_paragraph": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/17",
-                "text": "Blue Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/23",
-                "text": "Classic Leather Sneakers79.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/22",
-                "text": "Kids' Light-Up Sneakers29.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/27",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Dark Red Energy Potion",
-        "first_paragraph": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/13",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/14",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Women's High Heel Sandals",
-        "first_paragraph": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8?variant=beige-6",
-                "text": "beige, size 6"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8?variant=beige-7",
-                "text": "beige, size 7"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8?variant=beige-8",
-                "text": "beige, size 8"
-            },
-            {
-                "href": "https://web-scraping.dev/product/8?variant=blue-9",
-                "text": "blue, size 9"
-            },
-            {
-                "href": "https://web-scraping.dev/product/3",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/14",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/15",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/23",
-                "text": "Classic Leather Sneakers79.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Red Energy Potion",
-        "first_paragraph": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/21",
-                "text": "Running Shoes for Men49.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/3",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/4",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Red Energy Potion",
-        "first_paragraph": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16?variant=one",
-                "text": "one"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16?variant=six-pack",
-                "text": "pack of six"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/14",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/5",
-                "text": "Blue Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/11",
         "title": "web-scraping.dev product Classic Leather Sneakers",
         "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
         "links": [
@@ -2143,614 +446,19 @@
                 "text": "white, size 42"
             },
             {
-                "href": "https://web-scraping.dev/product/5",
-                "text": "Blue Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/21",
-                "text": "Running Shoes for Men49.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/24",
-                "text": "Cat-Ear Beanie14.99"
-            },
-            {
                 "href": "https://web-scraping.dev/product/16",
                 "text": "Red Energy Potion4.99"
             },
             {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Box of Chocolate Candy",
-        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-small",
-                "text": "orange, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
-                "text": "orange, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-large",
-                "text": "orange, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
-                "text": "cherry, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
-                "text": "cherry, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
-                "text": "cherry, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/4",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/15",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/18",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Box of Chocolate Candy",
-        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-small",
-                "text": "orange, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
-                "text": "orange, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-large",
-                "text": "orange, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
-                "text": "cherry, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
-                "text": "cherry, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
-                "text": "cherry, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/6",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/3",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/13",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/2",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Box of Chocolate Candy",
-        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-small",
-                "text": "orange, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
-                "text": "orange, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-large",
-                "text": "orange, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
-                "text": "cherry, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
-                "text": "cherry, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
-                "text": "cherry, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/7",
-                "text": "Hiking Boots for Outdoor Adventures89.99"
+                "href": "https://web-scraping.dev/product/17",
+                "text": "Blue Energy Potion4.99"
             },
             {
                 "href": "https://web-scraping.dev/product/14",
                 "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/15",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/16",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Box of Chocolate Candy",
-        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-small",
-                "text": "orange, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
-                "text": "orange, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-large",
-                "text": "orange, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
-                "text": "cherry, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
-                "text": "cherry, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
-                "text": "cherry, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/2",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/18",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/10",
-                "text": "Kids' Light-Up Sneakers29.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/27",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://scrapfly.io/academy",
-                "text": "SCRAPFLY ACADEMY"
-            },
-            {
-                "href": "/docs",
-                "text": "API Docs"
-            },
-            {
-                "href": "/sitemap.xml",
-                "text": "Sitemap"
-            },
-            {
-                "href": "https://scrapfly.io/blog",
-                "text": "Blog"
-            },
-            {
-                "href": "https://github.com/scrapfly",
-                "text": "GitHub"
-            },
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "ScrapFly"
-            }
-        ]
-    },
-    {
-        "url": "https://web-scraping.dev/",
-        "title": "web-scraping.dev product Box of Chocolate Candy",
-        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
-        "links": [
-            {
-                "href": "https://web-scraping.dev/",
-                "text": "web-scraping.dev"
-            },
-            {
-                "href": "#",
-                "text": "Docs"
-            },
-            {
-                "href": "/docs",
-                "text": "API"
-            },
-            {
-                "href": "/api/graphql",
-                "text": "Graphql"
-            },
-            {
-                "href": "https://web-scraping.dev/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/reviews",
-                "text": "Reviews"
-            },
-            {
-                "href": "https://web-scraping.dev/testimonials",
-                "text": "Testimonials"
-            },
-            {
-                "href": "https://web-scraping.dev/file-download",
-                "text": "File Download"
-            },
-            {
-                "href": "https://web-scraping.dev/login",
-                "text": "login"
-            },
-            {
-                "href": "/cart",
-                "text": "Continue"
-            },
-            {
-                "href": "/",
-                "text": "Home"
-            },
-            {
-                "href": "/products",
-                "text": "Products"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-small",
-                "text": "orange, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
-                "text": "orange, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=orange-large",
-                "text": "orange, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
-                "text": "cherry, small"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
-                "text": "cherry, medium"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
-                "text": "cherry, large"
-            },
-            {
-                "href": "https://web-scraping.dev/product/2",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/27",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/25",
-                "text": "Box of Chocolate Candy24.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/11",
+                "href": "https://web-scraping.dev/product/23",
                 "text": "Classic Leather Sneakers79.99"
             },
             {
@@ -2780,7 +488,1831 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/14",
+        "title": "web-scraping.dev product Dark Red Energy Potion",
+        "first_paragraph": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14?variant=one",
+                "text": "one"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14?variant=six-pack",
+                "text": "pack of six"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13",
+                "text": "Box of Chocolate Candy24.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/19",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/3",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12",
+                "text": "Cat-Ear Beanie14.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/12",
+        "title": "web-scraping.dev product Cat-Ear Beanie",
+        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
+                "text": "pink, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=pink-small",
+                "text": "pink, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
+                "text": "sand, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=sand-small",
+                "text": "sand, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
+                "text": "grey, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=grey-small",
+                "text": "grey, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
+                "text": "darkgrey, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
+                "text": "darkgrey, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/5",
+                "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/10",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/26",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/8",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/12?variant=pink-medium",
+        "title": "web-scraping.dev product Cat-Ear Beanie",
+        "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=pink-medium",
+                "text": "pink, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=pink-small",
+                "text": "pink, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=sand-medium",
+                "text": "sand, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=sand-small",
+                "text": "sand, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=grey-medium",
+                "text": "grey, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=grey-small",
+                "text": "grey, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=darkgrey-medium",
+                "text": "darkgrey, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12?variant=darkgrey-small",
+                "text": "darkgrey, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/7",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/6",
+                "text": "Dragon Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/3",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/19",
+        "title": "web-scraping.dev product Hiking Boots for Outdoor Adventures",
+        "first_paragraph": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/19?variant=6",
+                "text": "size 6"
+            },
+            {
+                "href": "https://web-scraping.dev/product/19?variant=7",
+                "text": "size 7"
+            },
+            {
+                "href": "https://web-scraping.dev/product/19?variant=8",
+                "text": "size 8"
+            },
+            {
+                "href": "https://web-scraping.dev/product/19?variant=9",
+                "text": "size 9"
+            },
+            {
+                "href": "https://web-scraping.dev/product/27",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/23",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/1",
+                "text": "Box of Chocolate Candy24.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/4",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/13",
+        "title": "web-scraping.dev product Box of Chocolate Candy",
+        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13?variant=orange-small",
+                "text": "orange, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13?variant=orange-medium",
+                "text": "orange, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13?variant=orange-large",
+                "text": "orange, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13?variant=cherry-small",
+                "text": "cherry, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13?variant=cherry-medium",
+                "text": "cherry, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13?variant=cherry-large",
+                "text": "cherry, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/28",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/21",
+                "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/8",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/14?variant=six-pack",
+        "title": "web-scraping.dev product Dark Red Energy Potion",
+        "first_paragraph": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14?variant=one",
+                "text": "one"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14?variant=six-pack",
+                "text": "pack of six"
+            },
+            {
+                "href": "https://web-scraping.dev/product/23",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/5",
+                "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/27",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/8",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/14?variant=one",
+        "title": "web-scraping.dev product Dark Red Energy Potion",
+        "first_paragraph": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14?variant=one",
+                "text": "one"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14?variant=six-pack",
+                "text": "pack of six"
+            },
+            {
+                "href": "https://web-scraping.dev/product/4",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/9",
+                "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/18",
+                "text": "Dragon Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25",
+                "text": "Box of Chocolate Candy24.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/17",
+        "title": "web-scraping.dev product Blue Energy Potion",
+        "first_paragraph": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/17?variant=one",
+                "text": "one"
+            },
+            {
+                "href": "https://web-scraping.dev/product/17?variant=six-pack",
+                "text": "pack of six"
+            },
+            {
+                "href": "https://web-scraping.dev/product/10",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/16",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/2",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/16",
+        "title": "web-scraping.dev product Red Energy Potion",
+        "first_paragraph": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/16?variant=one",
+                "text": "one"
+            },
+            {
+                "href": "https://web-scraping.dev/product/16?variant=six-pack",
+                "text": "pack of six"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25",
+                "text": "Box of Chocolate Candy24.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/21",
+                "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12",
+                "text": "Cat-Ear Beanie14.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/11?variant=white42",
+        "title": "web-scraping.dev product Classic Leather Sneakers",
+        "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black40",
+                "text": "black, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black41",
+                "text": "black, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black42",
+                "text": "black, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white40",
+                "text": "white, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white41",
+                "text": "white, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white42",
+                "text": "white, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/19",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/5",
+                "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/11?variant=white41",
+        "title": "web-scraping.dev product Classic Leather Sneakers",
+        "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black40",
+                "text": "black, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black41",
+                "text": "black, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black42",
+                "text": "black, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white40",
+                "text": "white, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white41",
+                "text": "white, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white42",
+                "text": "white, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/3",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/6",
+                "text": "Dragon Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/28",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/19",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/11?variant=white40",
+        "title": "web-scraping.dev product Classic Leather Sneakers",
+        "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black40",
+                "text": "black, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black41",
+                "text": "black, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black42",
+                "text": "black, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white40",
+                "text": "white, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white41",
+                "text": "white, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white42",
+                "text": "white, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/23",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/27",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/8",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/28",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/11?variant=black42",
+        "title": "web-scraping.dev product Classic Leather Sneakers",
+        "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black40",
+                "text": "black, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black41",
+                "text": "black, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black42",
+                "text": "black, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white40",
+                "text": "white, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white41",
+                "text": "white, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white42",
+                "text": "white, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/21",
+                "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/22",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/8",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/23",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/11?variant=black41",
+        "title": "web-scraping.dev product Classic Leather Sneakers",
+        "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black40",
+                "text": "black, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black41",
+                "text": "black, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black42",
+                "text": "black, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white40",
+                "text": "white, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white41",
+                "text": "white, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white42",
+                "text": "white, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/8",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/5",
+                "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25",
+                "text": "Box of Chocolate Candy24.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/28",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/11?variant=black40",
+        "title": "web-scraping.dev product Classic Leather Sneakers",
+        "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black40",
+                "text": "black, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black41",
+                "text": "black, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=black42",
+                "text": "black, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white40",
+                "text": "white, size 40"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white41",
+                "text": "white, size 41"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11?variant=white42",
+                "text": "white, size 42"
+            },
+            {
+                "href": "https://web-scraping.dev/product/10",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/24",
+                "text": "Cat-Ear Beanie14.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/22",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/2",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/20",
+        "title": "web-scraping.dev product Women's High Heel Sandals",
+        "first_paragraph": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20?variant=beige-6",
+                "text": "beige, size 6"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20?variant=beige-7",
+                "text": "beige, size 7"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20?variant=beige-8",
+                "text": "beige, size 8"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20?variant=blue-9",
+                "text": "blue, size 9"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/6",
+                "text": "Dragon Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/15",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/10",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/25?variant=cherry-large",
         "title": "web-scraping.dev product Box of Chocolate Candy",
         "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
         "links": [
@@ -2857,16 +2389,492 @@
                 "text": "cherry, large"
             },
             {
+                "href": "https://web-scraping.dev/product/16",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13",
+                "text": "Box of Chocolate Candy24.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/26",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/25?variant=cherry-medium",
+        "title": "web-scraping.dev product Box of Chocolate Candy",
+        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-small",
+                "text": "orange, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
+                "text": "orange, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-large",
+                "text": "orange, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
+                "text": "cherry, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
+                "text": "cherry, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
+                "text": "cherry, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/11",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
                 "href": "https://web-scraping.dev/product/9",
                 "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/26",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/8",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/25?variant=cherry-small",
+        "title": "web-scraping.dev product Box of Chocolate Candy",
+        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-small",
+                "text": "orange, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
+                "text": "orange, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-large",
+                "text": "orange, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
+                "text": "cherry, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
+                "text": "cherry, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
+                "text": "cherry, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/28",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12",
+                "text": "Cat-Ear Beanie14.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/21",
+                "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/17",
+                "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/25?variant=orange-large",
+        "title": "web-scraping.dev product Box of Chocolate Candy",
+        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-small",
+                "text": "orange, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
+                "text": "orange, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-large",
+                "text": "orange, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
+                "text": "cherry, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
+                "text": "cherry, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
+                "text": "cherry, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20",
+                "text": "Women's High Heel Sandals59.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/23",
+                "text": "Classic Leather Sneakers79.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/15",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/21",
+                "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/25?variant=orange-medium",
+        "title": "web-scraping.dev product Box of Chocolate Candy",
+        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-small",
+                "text": "orange, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
+                "text": "orange, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-large",
+                "text": "orange, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
+                "text": "cherry, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
+                "text": "cherry, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
+                "text": "cherry, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/14",
+                "text": "Dark Red Energy Potion4.99"
             },
             {
                 "href": "https://web-scraping.dev/product/2",
                 "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/20",
-                "text": "Women's High Heel Sandals59.99"
+                "href": "https://web-scraping.dev/product/19",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
             },
             {
                 "href": "https://web-scraping.dev/product/10",
@@ -2899,7 +2907,126 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/25?variant=orange-small",
+        "title": "web-scraping.dev product Box of Chocolate Candy",
+        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
+        "links": [
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "web-scraping.dev"
+            },
+            {
+                "href": "#",
+                "text": "Docs"
+            },
+            {
+                "href": "/docs",
+                "text": "API"
+            },
+            {
+                "href": "/api/graphql",
+                "text": "Graphql"
+            },
+            {
+                "href": "https://web-scraping.dev/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/reviews",
+                "text": "Reviews"
+            },
+            {
+                "href": "https://web-scraping.dev/testimonials",
+                "text": "Testimonials"
+            },
+            {
+                "href": "https://web-scraping.dev/file-download",
+                "text": "File Download"
+            },
+            {
+                "href": "https://web-scraping.dev/login",
+                "text": "login"
+            },
+            {
+                "href": "/cart",
+                "text": "Continue"
+            },
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "/products",
+                "text": "Products"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-small",
+                "text": "orange, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-medium",
+                "text": "orange, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=orange-large",
+                "text": "orange, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-small",
+                "text": "cherry, small"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-medium",
+                "text": "cherry, medium"
+            },
+            {
+                "href": "https://web-scraping.dev/product/25?variant=cherry-large",
+                "text": "cherry, large"
+            },
+            {
+                "href": "https://web-scraping.dev/product/28",
+                "text": "Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/3",
+                "text": "Teal Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/6",
+                "text": "Dragon Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/5",
+                "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://scrapfly.io/academy",
+                "text": "SCRAPFLY ACADEMY"
+            },
+            {
+                "href": "/docs",
+                "text": "API Docs"
+            },
+            {
+                "href": "/sitemap.xml",
+                "text": "Sitemap"
+            },
+            {
+                "href": "https://scrapfly.io/blog",
+                "text": "Blog"
+            },
+            {
+                "href": "https://github.com/scrapfly",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://web-scraping.dev/",
+                "text": "ScrapFly"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/24",
         "title": "web-scraping.dev product Cat-Ear Beanie",
         "first_paragraph": "Add a touch of whimsy to your winter wardrobe with our Cat Ear Beanie. Crafted from warm, soft material, this cozy beanie features adorable cat ears that stand out, making it the perfect accessory for cat lovers and fashion enthusiasts alike. Available in a variety of colors like black, grey, white, pink, and blue, this beanie not only keeps you warm but also adds a playful element to your outfit. Wear it for a casual day out, or make it your go-to accessory for those chilly evening walks. Stay warm, look cute, and let your playful side shine with our Cat Ear Beanie.",
         "links": [
@@ -2984,19 +3111,19 @@
                 "text": "darkgrey, small"
             },
             {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/12",
-                "text": "Cat-Ear Beanie14.99"
-            },
-            {
                 "href": "https://web-scraping.dev/product/6",
                 "text": "Dragon Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/25",
+                "href": "https://web-scraping.dev/product/17",
+                "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/2",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/13",
                 "text": "Box of Chocolate Candy24.99"
             },
             {
@@ -3026,7 +3153,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/23",
         "title": "web-scraping.dev product Classic Leather Sneakers",
         "first_paragraph": "Step out in style with these timeless classic leather sneakers. Made from premium genuine leather, these sneakers offer both comfort and durability. The sleek design and neutral color make them versatile for any occasion. Whether you're dressing up for a formal event or going for a casual outing, these sneakers will complement your look perfectly.",
         "links": [
@@ -3103,12 +3230,8 @@
                 "text": "white, size 42"
             },
             {
-                "href": "https://web-scraping.dev/product/28",
-                "text": "Red Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/20",
-                "text": "Women's High Heel Sandals59.99"
+                "href": "https://web-scraping.dev/product/2",
+                "text": "Dark Red Energy Potion4.99"
             },
             {
                 "href": "https://web-scraping.dev/product/23",
@@ -3117,6 +3240,10 @@
             {
                 "href": "https://web-scraping.dev/product/22",
                 "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/20",
+                "text": "Women's High Heel Sandals59.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -3145,7 +3272,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/22",
         "title": "web-scraping.dev product Kids' Light-Up Sneakers",
         "first_paragraph": "Make your child's every step magical with these fun and vibrant light-up sneakers. The shoes feature colorful LED lights embedded in the sole that illuminate with each stride, creating an enchanting visual display. Made with breathable materials and a cushioned footbed, these sneakers ensure comfort for active play. Let your little one's personality shine with these exciting and playful shoes.",
         "links": [
@@ -3214,20 +3341,20 @@
                 "text": "blue, size 6"
             },
             {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/7",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
             },
             {
-                "href": "https://web-scraping.dev/product/3",
-                "text": "Teal Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/28",
+                "text": "Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/24",
+                "href": "https://web-scraping.dev/product/12",
                 "text": "Cat-Ear Beanie14.99"
             },
             {
-                "href": "https://web-scraping.dev/product/18",
-                "text": "Dragon Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/10",
+                "text": "Kids' Light-Up Sneakers29.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -3256,7 +3383,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/21",
         "title": "web-scraping.dev product Running Shoes for Men",
         "first_paragraph": "Stay comfortable during your runs with our Men's Running Shoes. Featuring a breathable upper and a cushioned midsole, these shoes provide excellent ventilation and shock absorption. The durable outsole offers solid traction, ensuring stability even on slippery surfaces. With a sleek design and various color options, you can hit the road or the treadmill in style.",
         "links": [
@@ -3325,20 +3452,20 @@
                 "text": "size 12"
             },
             {
-                "href": "https://web-scraping.dev/product/12",
-                "text": "Cat-Ear Beanie14.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/18",
-                "text": "Dragon Energy Potion4.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/2",
+                "href": "https://web-scraping.dev/product/14",
                 "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/8",
-                "text": "Women's High Heel Sandals59.99"
+                "href": "https://web-scraping.dev/product/10",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/22",
+                "text": "Kids' Light-Up Sneakers29.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/5",
+                "text": "Blue Energy Potion4.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -3367,7 +3494,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?page=4",
         "title": "web-scraping.dev product page 4",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -3494,7 +3621,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?page=3",
         "title": "web-scraping.dev product page 3",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -3621,7 +3748,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?page=2",
         "title": "web-scraping.dev product page 2",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -3748,7 +3875,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?page=1",
         "title": "web-scraping.dev product page 1",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -3875,7 +4002,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/5",
         "title": "web-scraping.dev product Blue Energy Potion",
         "first_paragraph": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
         "links": [
@@ -3940,16 +4067,16 @@
                 "text": "Hiking Boots for Outdoor Adventures89.99"
             },
             {
-                "href": "https://web-scraping.dev/product/1",
-                "text": "Box of Chocolate Candy24.99"
+                "href": "https://web-scraping.dev/product/4",
+                "text": "Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/17",
-                "text": "Blue Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/26",
+                "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/20",
-                "text": "Women's High Heel Sandals59.99"
+                "href": "https://web-scraping.dev/product/18",
+                "text": "Dragon Energy Potion4.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -3978,7 +4105,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/4",
         "title": "web-scraping.dev product Red Energy Potion",
         "first_paragraph": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
         "links": [
@@ -4039,20 +4166,20 @@
                 "text": "pack of six"
             },
             {
-                "href": "https://web-scraping.dev/product/13",
-                "text": "Box of Chocolate Candy24.99"
+                "href": "https://web-scraping.dev/product/11",
+                "text": "Classic Leather Sneakers79.99"
             },
             {
                 "href": "https://web-scraping.dev/product/2",
                 "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/1",
-                "text": "Box of Chocolate Candy24.99"
+                "href": "https://web-scraping.dev/product/14",
+                "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/6",
-                "text": "Dragon Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/7",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -4081,7 +4208,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/3",
         "title": "web-scraping.dev product Teal Energy Potion",
         "first_paragraph": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
         "links": [
@@ -4142,20 +4269,20 @@
                 "text": "pack of six"
             },
             {
-                "href": "https://web-scraping.dev/product/7",
-                "text": "Hiking Boots for Outdoor Adventures89.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/22",
-                "text": "Kids' Light-Up Sneakers29.99"
-            },
-            {
-                "href": "https://web-scraping.dev/product/26",
-                "text": "Dark Red Energy Potion4.99"
-            },
-            {
                 "href": "https://web-scraping.dev/product/5",
                 "text": "Blue Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/12",
+                "text": "Cat-Ear Beanie14.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/9",
+                "text": "Running Shoes for Men49.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/1",
+                "text": "Box of Chocolate Candy24.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -4184,7 +4311,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/2",
         "title": "web-scraping.dev product Dark Red Energy Potion",
         "first_paragraph": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
         "links": [
@@ -4245,20 +4372,20 @@
                 "text": "pack of six"
             },
             {
-                "href": "https://web-scraping.dev/product/15",
-                "text": "Teal Energy Potion4.99"
-            },
-            {
                 "href": "https://web-scraping.dev/product/12",
                 "text": "Cat-Ear Beanie14.99"
             },
             {
-                "href": "https://web-scraping.dev/product/16",
-                "text": "Red Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/26",
+                "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/9",
-                "text": "Running Shoes for Men49.99"
+                "href": "https://web-scraping.dev/product/14",
+                "text": "Dark Red Energy Potion4.99"
+            },
+            {
+                "href": "https://web-scraping.dev/product/23",
+                "text": "Classic Leather Sneakers79.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -4287,7 +4414,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/product/1",
         "title": "web-scraping.dev product Box of Chocolate Candy",
         "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
         "links": [
@@ -4364,20 +4491,20 @@
                 "text": "cherry, large"
             },
             {
-                "href": "https://web-scraping.dev/product/1",
-                "text": "Box of Chocolate Candy24.99"
+                "href": "https://web-scraping.dev/product/27",
+                "text": "Teal Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/16",
-                "text": "Red Energy Potion4.99"
+                "href": "https://web-scraping.dev/product/2",
+                "text": "Dark Red Energy Potion4.99"
             },
             {
-                "href": "https://web-scraping.dev/product/21",
-                "text": "Running Shoes for Men49.99"
+                "href": "https://web-scraping.dev/product/23",
+                "text": "Classic Leather Sneakers79.99"
             },
             {
-                "href": "https://web-scraping.dev/product/9",
-                "text": "Running Shoes for Men49.99"
+                "href": "https://web-scraping.dev/product/7",
+                "text": "Hiking Boots for Outdoor Adventures89.99"
             },
             {
                 "href": "https://scrapfly.io/academy",
@@ -4406,7 +4533,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?category=household",
         "title": "web-scraping.dev product page 1",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -4497,7 +4624,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?category=consumables",
         "title": "web-scraping.dev product page 1",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -4620,7 +4747,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/products?category=apparel",
         "title": "web-scraping.dev product page 1",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -4986,7 +5113,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/reviews",
         "title": "web-scraping.dev latest product reviews | graphql mock website",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -5065,7 +5192,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/testimonials",
         "title": "web-scraping.dev testimonials",
         "first_paragraph": "Take a look at this collection of recent user testimonials 👇",
         "links": [
@@ -5136,7 +5263,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/file-download",
         "title": "web-scraping.dev File Download",
         "first_paragraph": "This scenario demonstrates a form submission that downloads a file with Content-Disposition: attachment header in a new tab.",
         "links": [
@@ -5211,7 +5338,7 @@
         ]
     },
     {
-        "url": "https://web-scraping.dev/",
+        "url": "https://web-scraping.dev/login",
         "title": "web-scraping.dev login",
         "first_paragraph": "No Paragraph",
         "links": [
@@ -5290,7 +5417,7 @@
         ]
     },
     {
-        "url": "#",
+        "url": "https://scrapfly.io/academy",
         "title": "Scrapfly Web Scraping API | Web Scraping Academy",
         "first_paragraph": "\n\t\t\t\t\tScrapfly Academy covers modern web scraping issues and their solutions walking\n\t\t\t\t\t                you through them step-by-step.\n\t\t\t\t",
         "links": [
@@ -6073,7 +6200,7 @@
         ]
     },
     {
-        "url": "/use-case/travel-web-scraping",
+        "url": "https://scrapfly.io/blog",
         "title": "Scrapfly Blog - Web Scraping News and Tutorials",
         "first_paragraph": "\n                              Overcome anti-bot systems and bypass protections\n                            ",
         "links": [
@@ -7856,7 +7983,7 @@
         ]
     },
     {
-        "url": "https://support.github.com?tags=dotcom-footer",
+        "url": "https://github.com/scrapfly",
         "title": "Scrapfly · GitHub",
         "first_paragraph": "We read every piece of feedback, and take your input very seriously.",
         "links": [
@@ -8317,12 +8444,32 @@
                 "text": "2"
             },
             {
+                "href": "/scrapfly/scrapfly-mcp",
+                "text": "scrapfly-mcp"
+            },
+            {
+                "href": "/scrapfly/scrapfly-mcp/graphs/commit-activity",
+                "text": "Uh oh!There was an error while loading.Please reload this page."
+            },
+            {
+                "href": "/scrapfly/scrapfly-mcp/stargazers",
+                "text": "2"
+            },
+            {
+                "href": "/scrapfly/scrapfly-mcp/issues",
+                "text": "0"
+            },
+            {
+                "href": "/scrapfly/scrapfly-mcp/pulls",
+                "text": "2"
+            },
+            {
                 "href": "/scrapfly/scrapfly-scrapers",
                 "text": "scrapfly-scrapers"
             },
             {
                 "href": "/scrapfly/scrapfly-scrapers/graphs/commit-activity",
-                "text": ""
+                "text": "Uh oh!There was an error while loading.Please reload this page."
             },
             {
                 "href": "/scrapfly/scrapfly-scrapers/stargazers",
@@ -8346,7 +8493,7 @@
             },
             {
                 "href": "/scrapfly/python-scrapfly/graphs/commit-activity",
-                "text": ""
+                "text": "Uh oh!There was an error while loading.Please reload this page."
             },
             {
                 "href": "/scrapfly/python-scrapfly/stargazers",
@@ -8370,7 +8517,7 @@
             },
             {
                 "href": "/scrapfly/typescript-scrapfly/graphs/commit-activity",
-                "text": ""
+                "text": "Uh oh!There was an error while loading.Please reload this page."
             },
             {
                 "href": "/scrapfly/typescript-scrapfly/stargazers",
@@ -8411,26 +8558,6 @@
             {
                 "href": "/scrapfly/Antibot-Detector/pulls",
                 "text": "0"
-            },
-            {
-                "href": "/scrapfly/scrapfly-mcp",
-                "text": "scrapfly-mcp"
-            },
-            {
-                "href": "/scrapfly/scrapfly-mcp/graphs/commit-activity",
-                "text": ""
-            },
-            {
-                "href": "/scrapfly/scrapfly-mcp/stargazers",
-                "text": "2"
-            },
-            {
-                "href": "/scrapfly/scrapfly-mcp/issues",
-                "text": "0"
-            },
-            {
-                "href": "/scrapfly/scrapfly-mcp/pulls",
-                "text": "2"
             },
             {
                 "href": "/scrapfly/go-scrapfly",
@@ -8482,7 +8609,7 @@
             },
             {
                 "href": "/scrapfly/.github/graphs/commit-activity",
-                "text": ""
+                "text": "Uh oh!There was an error while loading.Please reload this page."
             },
             {
                 "href": "/scrapfly/.github/issues",
@@ -8498,7 +8625,7 @@
             },
             {
                 "href": "/scrapfly/fingerprint-generator/graphs/commit-activity",
-                "text": ""
+                "text": "Uh oh!There was an error while loading.Please reload this page."
             },
             {
                 "href": "/scrapfly/fingerprint-generator/stargazers",
@@ -8522,7 +8649,7 @@
             },
             {
                 "href": "/scrapfly/chromium/graphs/commit-activity",
-                "text": ""
+                "text": "Uh oh!There was an error while loading.Please reload this page."
             },
             {
                 "href": "/scrapfly/chromium/issues",
@@ -8547,46 +8674,6 @@
             {
                 "href": "/daijro",
                 "text": ""
-            },
-            {
-                "href": "/orgs/scrapfly/repositories?language=c%2B%2B&type=all",
-                "text": "C++"
-            },
-            {
-                "href": "/orgs/scrapfly/repositories?language=python&type=all",
-                "text": "Python"
-            },
-            {
-                "href": "/orgs/scrapfly/repositories?language=go&type=all",
-                "text": "Go"
-            },
-            {
-                "href": "/orgs/scrapfly/repositories?language=jupyter+notebook&type=all",
-                "text": "Jupyter Notebook"
-            },
-            {
-                "href": "/orgs/scrapfly/repositories?language=typescript&type=all",
-                "text": "TypeScript"
-            },
-            {
-                "href": "/search?q=topic%3Aweb-scraping+org%3Ascrapfly+fork%3Atrue&type=repositories",
-                "text": "web-scraping"
-            },
-            {
-                "href": "/search?q=topic%3Ascraping+org%3Ascrapfly+fork%3Atrue&type=repositories",
-                "text": "scraping"
-            },
-            {
-                "href": "/search?q=topic%3Acrawler+org%3Ascrapfly+fork%3Atrue&type=repositories",
-                "text": "crawler"
-            },
-            {
-                "href": "/search?q=topic%3Ascraper+org%3Ascrapfly+fork%3Atrue&type=repositories",
-                "text": "scraper"
-            },
-            {
-                "href": "/search?q=topic%3Awebscraping+org%3Ascrapfly+fork%3Atrue&type=repositories",
-                "text": "webscraping"
             },
             {
                 "href": "/sponsors",

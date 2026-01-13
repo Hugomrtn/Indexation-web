@@ -40,10 +40,10 @@ def can_fetch(url, user_agent='*'):
         return True
 
 
-def extract_informations(html_string, href):
+def extract_informations(html_string, url):
     soup = BeautifulSoup(html_string, "html.parser")
 
-    title = soup.title.name if soup.title else "No Title"
+    title = soup.title.string if soup.title else "No Title"
 
     first_paragraph = soup.find('p').get_text() if soup.find('p') else "No Paragraph"
 
@@ -55,8 +55,8 @@ def extract_informations(html_string, href):
             links.append({'href': href, 'text': text})
 
     return {
+        'url': url,
         'title': title,
-        'link': href,
         'first_paragraph': first_paragraph,
         'links': links
     }
@@ -110,7 +110,7 @@ def crawling(main_url):
     print(pages_counter)
     print(authorised_links)
 
-    save_to_json(final_extraction, "output.json")
+    save_to_json(final_extraction, "TP1/output.jsonl")
 
 
-final_extraction = crawling(MAIN_URL)
+crawling(MAIN_URL)
