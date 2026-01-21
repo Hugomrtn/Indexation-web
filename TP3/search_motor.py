@@ -324,3 +324,37 @@ def provide_ranking_results(request, document, title_index, description_index,
                                                      features_tokens)
     # returning the ordered urls
     return get_ordered_results(ranking_result)
+
+
+def formatting_ranking_results(request, results, document):
+    formatted_results = []
+
+    for url in results:
+        doc_match = next((item for item in document if item["url"] == url))
+
+        title = doc_match.get("title")
+        description = doc_match.get("description")
+
+        formatted_results.append({
+            "url": url,
+            "title": title,
+            "description": description
+        })
+
+    data_to_save = {
+        "request": request,
+        "number_of_filtrated_documents": len(results),
+        "results": formatted_results
+    }
+    return data_to_save
+
+
+def saving_formatted_ranking_results(requests, list_of_results, document,
+                                     filename):
+    data_to_save = []
+    for i in range(len(requests)):
+        query_save = formatting_ranking_results(requests[i],
+                                                list_of_results[i],
+                                                document)
+        data_to_save.append(query_save)
+    save_to_json(data_to_save, filename)

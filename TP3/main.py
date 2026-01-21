@@ -8,7 +8,7 @@ def get_list_of_queries():
         "italy leather",
         "no results",
         "Hiking Boots for Outdoor Adventures",
-        "Chololate from france"
+        "Chocolate from france"
     ]
     return queries
 
@@ -22,12 +22,14 @@ def main():
     origin_synonyms = sm.read_json("TP3/origin_synonyms.json")
     brand_index = sm.read_json("TP3/brand_index.json")
 
+    # setting the saving filename
+    filename = "TP3/results.json"
     # getting queries
     queries = get_list_of_queries()
+    all_results = []
 
     # computing the results for each query
     for query in queries:
-        print(query, ":")
         ranking_result = sm.provide_ranking_results(query,
                                                     rearranged_products,
                                                     title_index,
@@ -35,8 +37,12 @@ def main():
                                                     [origin_index,
                                                      brand_index],
                                                     [origin_synonyms])
-        print(ranking_result[:10])
-        print("\n-----\n")
+
+        all_results.append(ranking_result)
+
+    sm.saving_formatted_ranking_results(queries, all_results,
+                                        rearranged_products,
+                                        filename)
 
 
 main()
