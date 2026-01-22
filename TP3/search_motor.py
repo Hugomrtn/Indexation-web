@@ -210,7 +210,7 @@ def compute_bm25(request_tokens, list_of_doc_tokens, current_doc_tokens,
         # computing the frequence of the token in the full document
         idf = get_token_frequence_in_list_of_doc_tokens(token,
                                                         list_of_doc_tokens)
-        # computing the BM25 formulae
+        # computing the BM25 formula
         numerator = f * (k+1)
         denominator = f + k * (1 - b + b * (field_len/avg_field_len))
         result = idf * numerator / denominator
